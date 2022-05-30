@@ -25,13 +25,20 @@ const Home: NextPage = () => {
 						<p>Ache o anime que você quiser</p>
 					</a>
 
-					<a href="https://nextjs.org/learn" className={styles.card}>
+					<a
+						href="https://github.com/miguelrisquelme/sitemap-anime"
+						target="_blank"
+						rel="noopener noreferrer"
+						className={styles.card}
+					>
 						<h2>Repositório &rarr;</h2>
 						<p>Entre para ver mais sobre o código do projeto</p>
 					</a>
 
 					<a
-						href="https://github.com/vercel/next.js/tree/canary/examples"
+						href="https://github.com/iamvishnusankar/next-sitemap"
+						target="_blank"
+						rel="noopener noreferrer"
 						className={styles.card}
 					>
 						<h2>Biblioteca &rarr;</h2>
@@ -39,7 +46,9 @@ const Home: NextPage = () => {
 					</a>
 
 					<a
-						href="https://github.com/vercel/next.js/tree/canary/examples"
+						href="https://github.com/RocktimSaikia/anime-chan"
+						target="_blank"
+						rel="noopener noreferrer"
 						className={styles.card}
 					>
 						<h2>API &rarr;</h2>
@@ -50,7 +59,7 @@ const Home: NextPage = () => {
 
 			<footer className={styles.footer}>
 				<a
-					href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+					href="https://github.com/miguelrisquelme"
 					target="_blank"
 					rel="noopener noreferrer"
 				>
