@@ -78,6 +78,7 @@ npm run dev
 
 ## References:
 
+- <a href="https://youtu.be/xS9tOcFyWVs">My video</a>
 - <a href="https://animechan.vercel.app/">Animes API</a>
 - <a href="https://github.com/iamvishnusankar/next-sitemap">Lib next-sitemap</a>
 - <a href="https://cheatcode.co/tutorials/how-to-generate-a-dynamic-sitemap-with-next-js">Article cheatcode</a>
