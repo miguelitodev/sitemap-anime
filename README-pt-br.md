@@ -78,6 +78,14 @@ yarn dev
 npm run dev
 ```
 
+## References:
+
+- <a href="https://youtu.be/xS9tOcFyWVs">Meu vídeo</a>
+- <a href="https://animechan.vercel.app/">Animes API</a>
+- <a href="https://github.com/iamvishnusankar/next-sitemap">Lib next-sitemap</a>
+- <a href="https://cheatcode.co/tutorials/how-to-generate-a-dynamic-sitemap-with-next-js">Artigo cheatcode</a>
+- <a href="https://www.youtube.com/watch?v=fOoH9Z5adrg&t=0s">Video do Leigh Halliday</a>
+
 Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o resultado.
 
 <br>
