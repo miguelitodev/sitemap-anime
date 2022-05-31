@@ -1,5 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
+import Link from "next/link";
 import styles from "../styles/Home.module.css";
 
 const Home: NextPage = () => {
@@ -24,11 +25,12 @@ const Home: NextPage = () => {
 				</p>
 
 				<div className={styles.grid}>
-					<a href="https://nextjs.org/docs" className={styles.card}>
-						<h2>Animes &rarr;</h2>
-						<p>Ache o anime que você quiser</p>
-					</a>
-
+					<Link href={"/animes"} passHref>
+						<a className={styles.card}>
+							<h2>Animes &rarr;</h2>
+							<p>Ache o anime que você quiser</p>
+						</a>
+					</Link>
 					<a
 						href="https://github.com/miguelrisquelme/sitemap-anime"
 						target="_blank"
