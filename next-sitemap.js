@@ -10,6 +10,7 @@ module.exports = {
       { userAgent: "*", disallow: "/api" },
       { userAgent: "*", allow: "/" },
     ],
+    additionalSitemaps: [`${siteUrl}/server-sitemap.xml`],
   },
   exclude: ["/api"],
 };
